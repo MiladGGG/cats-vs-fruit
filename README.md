@@ -5,7 +5,7 @@ This project is a Tower Defense video game I created in 2023. This project devel
 Nominated for a SHAPE 2023 award.
 
 
-![Demo](demos/demo1.gif)
+![Demo](demos/demo2.gif)
 
 ## Download
 The game can be downloaded via Google Drive
@@ -30,7 +30,7 @@ Unzip the folder and run Cats vs Fruit.exe (Windows only)
 
 
 ## Demo
-![Another demo](demos/demo2.gif)
+![Another demo](demos/demo1.gif)
 
 
 ### Acknowledgement
